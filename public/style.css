@@ -3,10 +3,10 @@ html, body {
   }
   
   h2{
-    font-size: 22px;
-    color:darkmagenta;
+    font-size: 50px;
+    color:midnightblue;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lobster', cursive;
     padding-top: 30px;
   }
 
